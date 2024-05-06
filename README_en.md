@@ -28,7 +28,7 @@ You can install `requests` using the following command:
 
 ```bash
 pip install requests
-
+```
 ## Future Optimization Plans
 
 - Add error handling mechanisms to make the script more robust in case of API call failures.
