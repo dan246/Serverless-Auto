@@ -41,4 +41,6 @@ pip install requests
 If you have any questions or suggestions, please contact us through GitHub Issues.
 
 ## References
-[Nuclio Github](https://github.com/nuclio/nuclio)
+
+[Nuclio GitHub](https://github.com/nuclio/nuclio)
+
