@@ -3,7 +3,7 @@
 
 [english version](https://github.com/dan246/Serverless-Auto/blob/main/README_en.md)
 
-[中文版本](https://github.com/dan246/Serverless-Auto/edit/main/README.md)
+[中文版本](https://github.com/dan246/Serverless-Auto/blob/main/README.md)
 
 # Nuclio Function Management Tool
 
