@@ -3,7 +3,7 @@ nuclio 自動化控制工具
 
 [english version](https://github.com/dan246/Serverless-Auto/blob/main/README_en.md)
 
-[中文版本](https://github.com/dan246/Serverless-Auto/edit/main/README.md)
+[中文版本](https://github.com/dan246/Serverless-Auto/main/README.md)
 # Nuclio 函數管理工具
 
 這個專案提供了一組 Python 腳本，用於管理和部署 [Nuclio](https://nuclio.io/) Serverless 函數。可以透過這些腳本快速獲取 Nuclio 項目和函數的列表，並部署新的函數。
