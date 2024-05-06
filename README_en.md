@@ -1,7 +1,6 @@
 
 ### English Version
 
-```markdown
 # Nuclio Function Management Tool
 
 This project provides a set of Python scripts for managing and deploying [Nuclio](https://nuclio.io/) Serverless functions. You can quickly obtain lists of Nuclio projects and functions, and deploy new functions using these scripts.
