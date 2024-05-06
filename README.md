@@ -1,7 +1,7 @@
 # Serverless-Auto
 nuclio 自動化控制工具
 
-[english](https://github.com/dan246/Serverless-Auto/blob/main/README_en.md)
+[english version](https://github.com/dan246/Serverless-Auto/blob/main/README_en.md)
 
 [中文版本](https://github.com/dan246/Serverless-Auto/edit/main/README.md)
 # Nuclio 函數管理工具
