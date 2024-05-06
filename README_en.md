@@ -4,7 +4,6 @@
 [english version](https://github.com/dan246/Serverless-Auto/blob/main/README_en.md)
 
 [中文版本](https://github.com/dan246/Serverless-Auto/blob/main/README.md)
-
 # Nuclio Function Management Tool
 
 This project provides a set of Python scripts for managing and deploying [Nuclio](https://nuclio.io/) Serverless functions. You can quickly obtain lists of Nuclio projects and functions, and deploy new functions using these scripts.
